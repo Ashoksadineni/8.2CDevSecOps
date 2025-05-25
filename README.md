@@ -219,3 +219,4 @@ When the wizard is done, restart the application and run the exploits again to c
 ##test5
 ##test6
 ##test7
+##test8
